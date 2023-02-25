@@ -20,7 +20,7 @@ namespace MiguelGarcia
         private void button1_Click(object sender, EventArgs e)
         {
             double capital = 200000;
-            double interes = 0.15;
+            double interes = 0.015;
             double mes = 0;
             double generado = 0;
             double total = generado;
